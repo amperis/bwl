@@ -5,4 +5,4 @@ Requisitos ejecucion: IE y NMap
 
 BWL busca de manera rápida todas las Web locales de tu red para obtener una visualiazcion de todas ellas.
 
-![GitHub Logo](/images/ejemplo.png)
+![Captura BWL](/images/ejemplo.png)

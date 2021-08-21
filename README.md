@@ -1,11 +1,11 @@
 ## BWL - Buscador Web Local
 
-BWL busca de manera rápida todas las Web locales de tu red para obtener una visualiazcion de todas ellas.
+BWL busca de manera rápida todas las Web locales de tu red para obtener una visualización de todas ellas.
 
 ### Requisitos
 
 * Desarrollado: Delphi 10.4
-* Requisitos ejecucion: IE y NMap
+* Requisitos de ejecucion: IE y ![NMap](https://nmap.org/download.html)
 
 ### Versiones
 

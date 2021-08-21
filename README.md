@@ -23,6 +23,8 @@ BWL busca de manera rápida todas las Web locales de tu red para obtener una vis
 
 * Ultima version 0.2: [bw.zip (x86)](https://github.com/amperis/bwl/raw/main/BINARIO/bw.zip)
 
-### Screenshot
+### Screenshots
 
-![Captura BWL](/images/ejemplo.png)
+![Captura BWL](/images/Capture1.png)
+![Captura BWL](/images/Capture2.png)
+![Captura BWL](/images/Capture3.png)

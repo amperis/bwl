@@ -9,9 +9,13 @@ BWL busca de manera rápida todas las Web locales de tu red para obtener una vis
 
 ### Versiones
 
+* Version 0.1:
+ * version inicial
+* Version 0.2:
+
 ### Binario
 
-* Binario de la vesion 0.1: [bw.zip (x86)](https://github.com/amperis/bwl/raw/main/BINARIO/bw.zip)
+* Ultima version 0.2: [bw.zip (x86)](https://github.com/amperis/bwl/raw/main/BINARIO/bw.zip)
 
 ### Screenshot
 

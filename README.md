@@ -10,7 +10,7 @@ BWL busca de manera rápida todas las Web locales de tu red para obtener una vis
 ### Versiones
 
 * Version 0.1:
- * version inicial
+   * version inicial
 * Version 0.2:
 
 ### Binario

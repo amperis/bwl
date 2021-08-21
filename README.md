@@ -5,7 +5,7 @@ BWL busca de manera rápida todas las Web locales de tu red para obtener una vis
 ### Requisitos
 
 * Desarrollado: Delphi 10.4
-* Requisitos de ejecucion: IE y ![NMap](https://nmap.org/download.html)
+* Requisitos de ejecucion: IE y [NMap](https://nmap.org/download.html)
 
 ### Versiones
 

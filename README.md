@@ -25,6 +25,6 @@ BWL busca de manera rápida todas las Web locales de tu red para obtener una vis
 
 ### Screenshots
 
-![Captura BWL](/images/Captura1.png)
+![Captura BWL](/images/Captura1.PNG)
 ![Captura BWL](/images/Captura2.png)
 ![Captura BWL](/images/Captura3.png)
